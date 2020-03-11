@@ -1,0 +1,22 @@
+print "Enter a here: "
+take input a
+print "Enter b here: "
+take input b
+print "Enter c here: "
+take input c
+print "Enter d here: "
+take input d
+print "Enter e here: "
+take input e
+print "Enter f here: "
+take input f
+
+if ad - bc = 0
+	print "The given inputs present no solution"
+	end
+else
+	double x = (ed - bf) / (ad - bc)
+	double y = (af - ec) / (ad - bc)
+	print x
+	print y
+end
